@@ -1,5 +1,6 @@
-https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif
+
 <h1 align="center">Hi 👋, I'm SHREYASI DAS</h1>
+https://github.com/Shreyasi-21/Shreyasi--21
 <h3 align="center">A passionate developer from India</h3>
 https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif
 
