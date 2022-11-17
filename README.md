@@ -1,10 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm SHREYASI DAS</h1>
+[![MasterHead]https://www.google.com/search?q=banner+gif+images&tbm=isch&hl=en&chips=q:banner+gif+images,g_1:technology:EDIGYswDqJw%3D,online_chips:software&rlz=1C1ONGR_enIN1030IN1030&sa=X&ved=2ahUKEwi_sNPL-rT7AhV2_jgGHVD0BZQQ4lYoCXoECAEQNw&biw=1519&bih=746#imgrc=4kAY1o2Qnffr8M&imgdii=is9k0eXvJW4vnM]<h1 align="center">Hi 👋, I'm SHREYASI DAS</h1>
 https://github.com/Shreyasi-21/Shreyasi--21
 <h3 align="center">A passionate developer from India</h3>
-https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasi-21&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasi-21" /> </p>
+https://www.google.com/search?rlz=1C1ONGR_enIN1030IN1030&source=univ&tbm=isch&q=animated+coding+gf&fir=HGZs9Ej5s8uKoM%252Cu9bS_ExwNUgREM%252C_%253Bdbrfb5dvHO4gVM%252CCJdgcKdcN0j58M%252C_%253BKAywifT46CGFXM%252CCJdgcKdcN0j58M%252C_%253BCVLQvplLvZ78OM%252CCJdgcKdcN0j58M%252C_%253BNUntO8FQoc-57M%252CS2_fnYEU1a3BSM%252C_%253Bb--bk1P-UN_2XM%252CCJdgcKdcN0j58M%252C_%253BLyhHCBX1U2ovvM%252Cp5fFCNjfbnHVMM%252C_%253B7xC351lX0I7QLM%252CoS-ZV96cuepeDM%252C_%253Bv7o9lD1O-KlGyM%252CB69n0hyF58WaPM%252C_%253BGCaYw86GOkd1JM%252CLnmW0AlDs2MDiM%252C_&usg=AI4_-kSSFqHOrzaPgQKxjczDkjK4hxnWOA&sa=X&ved=2ahUKEwi_9--B-bT7AhVETGwGHR15A-IQ7Al6BAgHEFA&biw=1536&bih=746&dpr=1.25#imgrc=KAywifT46CGFXM&imgdii=SS1GkdNnlHNJqM
+<p align="left"> <img src="https://www.google.com/search?rlz=1C1ONGR_enIN1030IN1030&source=univ&tbm=isch&q=animated+coding+gf&fir=HGZs9Ej5s8uKoM%252Cu9bS_ExwNUgREM%252C_%253Bdbrfb5dvHO4gVM%252CCJdgcKdcN0j58M%252C_%253BKAywifT46CGFXM%252CCJdgcKdcN0j58M%252C_%253BCVLQvplLvZ78OM%252CCJdgcKdcN0j58M%252C_%253BNUntO8FQoc-57M%252CS2_fnYEU1a3BSM%252C_%253Bb--bk1P-UN_2XM%252CCJdgcKdcN0j58M%252C_%253BLyhHCBX1U2ovvM%252Cp5fFCNjfbnHVMM%252C_%253B7xC351lX0I7QLM%252CoS-ZV96cuepeDM%252C_%253Bv7o9lD1O-KlGyM%252CB69n0hyF58WaPM%252C_%253BGCaYw86GOkd1JM%252CLnmW0AlDs2MDiM%252C_&usg=AI4_-kSSFqHOrzaPgQKxjczDkjK4hxnWOA&sa=X&ved=2ahUKEwi_9--B-bT7AhVETGwGHR15A-IQ7Al6BAgHEFA&biw=1536&bih=746&dpr=1.25#imgrc=KAywifT46CGFXM&imgdii=SS1GkdNnlHNJqM
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src=https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif
 
