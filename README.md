@@ -1,13 +1,11 @@
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+<h1 align="center">Hi 👋, I'm SHREYASI DAS</h1>
+<h1 align="center">https://github.com/Shreyasi-21/Shreyasi--21<h1>
+<h3 align="center">A passionate java developer from India and coding enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-[![MasterHead]https://www.google.com/search?q=banner+gif+images&tbm=isch&hl=en&chips=q:banner+gif+images,g_1:technology:EDIGYswDqJw%3D,online_chips:software&rlz=1C1ONGR_enIN1030IN1030&sa=X&ved=2ahUKEwi_sNPL-rT7AhV2_jgGHVD0BZQQ4lYoCXoECAEQNw&biw=1519&bih=746#imgrc=4kAY1o2Qnffr8M&imgdii=is9k0eXvJW4vnM]<h1 align="center">Hi 👋, I'm SHREYASI DAS</h1>
-https://github.com/Shreyasi-21/Shreyasi--21
-<h3 align="center">A passionate developer from India</h3>
-https://www.google.com/search?rlz=1C1ONGR_enIN1030IN1030&source=univ&tbm=isch&q=animated+coding+gf&fir=HGZs9Ej5s8uKoM%252Cu9bS_ExwNUgREM%252C_%253Bdbrfb5dvHO4gVM%252CCJdgcKdcN0j58M%252C_%253BKAywifT46CGFXM%252CCJdgcKdcN0j58M%252C_%253BCVLQvplLvZ78OM%252CCJdgcKdcN0j58M%252C_%253BNUntO8FQoc-57M%252CS2_fnYEU1a3BSM%252C_%253Bb--bk1P-UN_2XM%252CCJdgcKdcN0j58M%252C_%253BLyhHCBX1U2ovvM%252Cp5fFCNjfbnHVMM%252C_%253B7xC351lX0I7QLM%252CoS-ZV96cuepeDM%252C_%253Bv7o9lD1O-KlGyM%252CB69n0hyF58WaPM%252C_%253BGCaYw86GOkd1JM%252CLnmW0AlDs2MDiM%252C_&usg=AI4_-kSSFqHOrzaPgQKxjczDkjK4hxnWOA&sa=X&ved=2ahUKEwi_9--B-bT7AhVETGwGHR15A-IQ7Al6BAgHEFA&biw=1536&bih=746&dpr=1.25#imgrc=KAywifT46CGFXM&imgdii=SS1GkdNnlHNJqM
-<p align="left"> <img src="https://www.google.com/search?rlz=1C1ONGR_enIN1030IN1030&source=univ&tbm=isch&q=animated+coding+gf&fir=HGZs9Ej5s8uKoM%252Cu9bS_ExwNUgREM%252C_%253Bdbrfb5dvHO4gVM%252CCJdgcKdcN0j58M%252C_%253BKAywifT46CGFXM%252CCJdgcKdcN0j58M%252C_%253BCVLQvplLvZ78OM%252CCJdgcKdcN0j58M%252C_%253BNUntO8FQoc-57M%252CS2_fnYEU1a3BSM%252C_%253Bb--bk1P-UN_2XM%252CCJdgcKdcN0j58M%252C_%253BLyhHCBX1U2ovvM%252Cp5fFCNjfbnHVMM%252C_%253B7xC351lX0I7QLM%252CoS-ZV96cuepeDM%252C_%253Bv7o9lD1O-KlGyM%252CB69n0hyF58WaPM%252C_%253BGCaYw86GOkd1JM%252CLnmW0AlDs2MDiM%252C_&usg=AI4_-kSSFqHOrzaPgQKxjczDkjK4hxnWOA&sa=X&ved=2ahUKEwi_9--B-bT7AhVETGwGHR15A-IQ7Al6BAgHEFA&biw=1536&bih=746&dpr=1.25#imgrc=KAywifT46CGFXM&imgdii=SS1GkdNnlHNJqM
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src=https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif
-
-- 🌱 I’m currently learning **MERN STACK**
+💻 I'm currently working on **JAVA**
+✍️ I'm currently learning **React**
 
 - 💬 Ask me about **JAVA,PYTHON,C,HTML,CSS,DSA,ML**
 
