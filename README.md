@@ -10,7 +10,7 @@
   
   ✍️ I'm currently learning **React**
 
-.💬 Ask me about **JAVA,PYTHON,C,HTML,CSS,DSA,ML**
+💬 Ask me about **JAVA,PYTHON,C,HTML,CSS,DSA,ML**
 
 📫 How to reach me dnilanjan18@gmail.com
 
