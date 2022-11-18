@@ -10,9 +10,9 @@
   
   ✍️ I'm currently learning **React**
 
-💬 Ask me about **JAVA,PYTHON,C,HTML,CSS,DSA,ML**
+.💬 Ask me about **JAVA,PYTHON,C,HTML,CSS,DSA,ML**
 
-📫 How to reach me :**dnilanjan18@gmail.com**
+📫 How to reach me dnilanjan18@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
