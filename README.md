@@ -4,13 +4,13 @@
 
 <h1 align="center">A passionate java developer from India and coding enthusiast<h1>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-  💻 I'm currently working on *JAVA and ML*
+  💻 I'm currently working on JAVA and ML
   
-  ✍️ I'm currently learning *React*
+  ✍️ I'm currently learning React
 
-💬 Ask me about *JAVA,PYTHON,C,HTML,CSS,DSA,ML*
+💬 Ask me about JAVA,PYTHON,C,HTML,CSS,DSA,ML
 
 📫 How to reach me dnilanjan18@gmail.com
 
