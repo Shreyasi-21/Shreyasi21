@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm SHREYASI DAS</h1>
 <h1 align="center">https://github.com/Shreyasi-21/Shreyasi21<h1>
 
-<h1 align="center">A passionate java developer from India and coding enthusiast<h1>
+<h1 align="center">A passionate java developer from Kolkata, India and coding enthusiast<h1>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="359" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
   💻 I'm currently working on JAVA and ML
   
