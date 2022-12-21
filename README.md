@@ -10,11 +10,12 @@ src="https://i.pinimg.com/736x/f5/b0/45/f5b045627b6c125e500fc02f42d79763.jpg">
   💻 I'm currently working on JAVA, ML and Competitive Coding
   
   ✍️ I'm currently learning React
-
+  
 💬 Ask me about JAVA,PYTHON,C,HTML,CSS,DSA,ML
-
+  
 📫 How to reach me dnilanjan18@gmail.com
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyasi-das-7ab3a1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyasi-das-7ab3a1216" height="30" width="40" /></a>
