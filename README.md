@@ -4,7 +4,7 @@
 
 <h1 align="center">A passionate java developer from Kolkata, India and coding enthusiast<h1>
 
-<img align="right" alt="Coding" width="365" 
+<img align="right" alt="Coding" width="340" 
 src="https://i.pinimg.com/736x/f5/b0/45/f5b045627b6c125e500fc02f42d79763.jpg">
 
   💻 I'm currently working on JAVA, ML and Competitive Coding
